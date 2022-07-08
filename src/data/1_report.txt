@@ -1,0 +1,9 @@
+name;price;self_price;count;discount
+sugar;70;30;4;STUDENT
+milk;50;60;7;STUDENT
+sugar;70;30;4;NONE
+bread;20;25;5;DOCTOR
+beer;100;50;10;DOCTOR
+beer;100;50;10;STUDENT
+malboro;250;175;4;PENSIONER
+beer;100;50;5;DOCTOR
